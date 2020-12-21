@@ -2,6 +2,12 @@
     "name": "payamjafari/laravel-apidoc-generator",
     "license": "MIT",
     "description": "Generate beautiful API documentation from your Laravel application",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mpociot/laravel-apidoc-generator"
+        }
+    ],
     "keywords": [
         "API",
         "Documentation",
